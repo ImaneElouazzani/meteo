@@ -80,7 +80,7 @@ h1 {
 }
 
 .bloc-h:not(:last-child), .bloc-j:not(:last-child) {
-    border-right: 1px solid #f1f1f1;
+    border-right: 1px solid #e7e7e7;
 }
 
 .bloc-h p, .bloc-j p {
